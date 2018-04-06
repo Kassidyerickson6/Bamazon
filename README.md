@@ -6,9 +6,6 @@ Within the customer interface, the user can view the inventory of the store item
 ## Author
 Kassidy Erickson
 
-## Link
-
-
 ## Visual Example:
 ![terminal](https://user-images.githubusercontent.com/30784677/38398769-e3dd616a-38fa-11e8-8436-28c9012ce7f9.png)
 
